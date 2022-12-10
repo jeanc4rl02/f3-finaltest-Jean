@@ -226,6 +226,10 @@ form{
   padding-top: 5vh;
 }
 
+.phrase{
+  color: #000;
+}
+
 .input-form {
   margin: 10px 0 20px 0;
   padding: 6px;
